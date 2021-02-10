@@ -76,8 +76,6 @@ And add the bot to your server.
 
 - [@EliBH](https://github.com/Eli-BH) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - FreeCodeCamp for great starter guides [FreeCodeCamp](https://www.freecodecamp.org/)
